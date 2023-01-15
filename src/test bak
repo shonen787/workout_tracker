@@ -1,0 +1,5459 @@
+{
+  "workout_group": [
+    {
+      "day": 1,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~6-8",
+      "repmax": "85-87.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 1,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "75-77.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 1,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 1,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 1,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 2,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-8",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 2,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "82.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 2,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 2,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 2,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 2,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 2,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 3,
+      "workout": "ANDERSON SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THIS IS A PIN  SQUAT THAT STARTS AND ENDS WITH  THE BAR  ON THE PINS.  AT THE BOTTOM YOU'RE JUST ABOVE PARALLEL.  GET TIGHT."
+    },
+    {
+      "day": 3,
+      "workout": "CLOSE GRIP  BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SHOULDER WIDTH GRIP, TUCK YOUR ELBOWS  IN CLOSER TO YOUR  SIDES"
+    },
+    {
+      "day": 3,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 3,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 4,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "85",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 4,
+      "workout": "PAUSE DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "67.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 4,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 4,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 4,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 4,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 5,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 4,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 5,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 4,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "72.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 5,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 5,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 6,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~6-8",
+      "repmax": "85-87.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 6,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "75-77.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 6,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 6,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 6,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 7,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-8",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 7,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "82.5-85",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 7,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 7,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 7,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 7,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 7,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 8,
+      "workout": "BARBELL BOX SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT FULLY BACK ON TO THE BOX,  RELEASE   TENSION  IN THIGHS,  MINIMIZE   ROCKING  WHILE   SEATED"
+    },
+    {
+      "day": 8,
+      "workout": "BARBELL PIN BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "70-75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS JUST ABOVE CHEST HEIGHT, RELEASE  TENSION WHILE  THE BAR IS ON THE PINS, THEN EXPLODE  UP. CONTROL THE WEIGHT."
+    },
+    {
+      "day": 8,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 8,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 9,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 9,
+      "workout": "TOUCH-AND-GO DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "65-70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T BOUNCE THE PLATES OFF THE FLOOR, JUST A LIGHT TAP. ALLOW SOME MOMENTUM AND GET IN A GOOD GROOVE. BREATHE/BRACE  AT THE TOP."
+    },
+    {
+      "day": 9,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 9,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 9,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 9,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 10,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "72.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 10,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 10,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 10,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 11,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 11,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.5-80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 11,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 11,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 11,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 12,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "90-92.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 12,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "85-87.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 12,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 12,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 12,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 12,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 12,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 13,
+      "workout": "ANDERSON SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THIS IS A PIN  SQUAT THAT STARTS AND ENDS WITH  THE BAR  ON THE PINS.  AT THE BOTTOM YOU'RE JUST ABOVE PARALLEL.  GET TIGHT."
+    },
+    {
+      "day": 13,
+      "workout": "CLOSE GRIP  BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SHOULDER WIDTH GRIP, TUCK YOUR ELBOWS  IN CLOSER TO YOUR  SIDES"
+    },
+    {
+      "day": 13,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 13,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 14,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "2-4",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 14,
+      "workout": "PAUSE DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 14,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 14,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 14,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 14,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 15,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 15,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 15,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 15,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 16,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 16,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.5-80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 16,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 16,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 16,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 17,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "90-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 17,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "85-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 17,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 17,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 17,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 17,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 17,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 18,
+      "workout": "BARBELL BOX SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT FULLY BACK ON TO THE BOX,  RELEASE   TENSION  IN THIGHS,  MINIMIZE   ROCKING  WHILE   SEATED"
+    },
+    {
+      "day": 18,
+      "workout": "BARBELL PIN BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "70-75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS JUST ABOVE CHEST HEIGHT, RELEASE  TENSION WHILE  THE BAR IS ON THE PINS, THEN EXPLODE  UP. CONTROL THE WEIGHT."
+    },
+    {
+      "day": 18,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 18,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 19,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "92.5-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 19,
+      "workout": "TOUCH-AND-GO DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "65-75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 19,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 19,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 19,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 19,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 20,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 20,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 20,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 20,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 21,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "~5-7",
+      "repmax": "75-77.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 21,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SQUEEZE   YOUR  GLUTES  TO KEEP  YOUR  TORSO UPRIGHT,   PRESS   UP  AND SLIGHTLY  BACK"
+    },
+    {
+      "day": 21,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 21,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 22,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "85",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 22,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 22,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 22,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 22,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 22,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 23,
+      "workout": "ANDERSON SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "6",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THIS IS A PIN  SQUAT THAT STARTS AND ENDS WITH  THE BAR  ON THE PINS.  AT THE BOTTOM YOU'RE JUST ABOVE PARALLEL.  GET TIGHT."
+    },
+    {
+      "day": 23,
+      "workout": "CLOSE GRIP  BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SHOULDER WIDTH GRIP, TUCK YOUR ELBOWS  IN CLOSER TO YOUR  SIDES"
+    },
+    {
+      "day": 23,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 23,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 24,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "85",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 24,
+      "workout": "PAUSE DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "67.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 24,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 24,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 24,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 24,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 25,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 25,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "6",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "72.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 25,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 25,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 26,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 26,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "80-85",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 26,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 26,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 26,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 27,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-9",
+      "repmax": "90-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 27,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "87.5-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 27,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 27,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 27,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 27,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 27,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 28,
+      "workout": "BARBELL BOX SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT FULLY BACK ON TO THE BOX,  RELEASE   TENSION  IN THIGHS,  MINIMIZE   ROCKING  WHILE   SEATED"
+    },
+    {
+      "day": 28,
+      "workout": "BARBELL PIN BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "70-80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS JUST ABOVE CHEST HEIGHT, RELEASE  TENSION WHILE  THE BAR IS ON THE PINS, THEN EXPLODE  UP. CONTROL THE WEIGHT."
+    },
+    {
+      "day": 28,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 28,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 29,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "92.5-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 29,
+      "workout": "TOUCH-AND-GO DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "65-75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 29,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 29,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 29,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 29,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 30,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 30,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 3,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "77.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 30,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 30,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 31,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~8-9",
+      "repmax": "90-92.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 31,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "82.5-87.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 31,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 31,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 1,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 31,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 32,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~8-9",
+      "repmax": "92.5-97.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 32,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "90-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 32,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 32,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 32,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 32,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 32,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 33,
+      "workout": "ANDERSON SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THIS IS A PIN  SQUAT THAT STARTS AND ENDS WITH  THE BAR  ON THE PINS.  AT THE BOTTOM YOU'RE JUST ABOVE PARALLEL.  GET TIGHT."
+    },
+    {
+      "day": 33,
+      "workout": "CLOSE GRIP  BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SHOULDER WIDTH GRIP, TUCK YOUR ELBOWS  IN CLOSER TO YOUR  SIDES"
+    },
+    {
+      "day": 33,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 33,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 34,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "~9",
+      "repmax": "90-92.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 34,
+      "workout": "PAUSE DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "72.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 34,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 34,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 34,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 34,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 35,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BA"
+    },
+    {
+      "day": 35,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 35,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 35,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 36,
+      "workout": "BACK SQUAT (TOP SINGLE)",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~8-9",
+      "repmax": "90-95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TOP SET. FOCUS ON TECHNIQUE AND EXPLOSIVE  POWER."
+    },
+    {
+      "day": 36,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 0,
+      "working_sets": 1,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "9-Aug",
+      "repmax": "85-90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 36,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY TOMORROW."
+    },
+    {
+      "day": 36,
+      "workout": "PIN  GOOD MORNING  (OR 45° BACK EXTENSION)",
+      "warm_up_sets": 2,
+      "working_sets": 1,
+      "reps": "8-10",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS HIGH, SHORT ROM, USE LOW BAR POSITION, SET HIPS BACK AND KEEP  SHINS VERTICAL"
+    },
+    {
+      "day": 36,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 37,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~9",
+      "repmax": "92.5-97.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STRICT 1 SECOND PAUSE  ON CHEST. EXECUTE THE SET UP AND REP  AS PERFECTLY  AS POSSIBLE.\nDON'T OVERHYPE.  FOCUS."
+    },
+    {
+      "day": 37,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 0,
+      "working_sets": 1,
+      "reps": "2",
+      "rest": "3-5MIN",
+      "RPE": "~9",
+      "repmax": "95",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 37,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 37,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 37,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 37,
+      "workout": "STANDING CALF RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PUSH  THESE  ALL VERY  HARD.  GO TO TRUE  FAILURE."
+    },
+    {
+      "day": 37,
+      "workout": "HANGING LEG RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KNEES  TO CHEST, CONTROLLED  REPS,   STRAIGHTEN   LEGS  MORE  TO INCREASE   DIFFICULTY"
+    },
+    {
+      "day": 38,
+      "workout": "BARBELL BOX SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT FULLY BACK ON TO THE BOX,  RELEASE   TENSION  IN THIGHS,  MINIMIZE   ROCKING  WHILE   SEATED"
+    },
+    {
+      "day": 38,
+      "workout": "BARBELL PIN BENCH PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 3,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "6",
+      "repmax": "70-80",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET THE PINS JUST ABOVE CHEST HEIGHT, RELEASE  TENSION WHILE  THE BAR IS ON THE PINS, THEN EXPLODE  UP. CONTROL THE WEIGHT."
+    },
+    {
+      "day": 38,
+      "workout": "NEUTRAL GRIP PULLDOWN",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "6-8",
+      "rest": "2-3MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "PULL YOUR ELBOWS DOWN AGAINST YOUR SIDES"
+    },
+    {
+      "day": 38,
+      "workout": "DUMBBELL SKULL CRUSHER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "ARC THE DUMMBELLS  BEHIND  YOUR HEAD. CONSTANT TENSION  ON TRICEPS"
+    },
+    {
+      "day": 39,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~9",
+      "repmax": "95-97.5",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE  LIFTING"
+    },
+    {
+      "day": 39,
+      "workout": "TOUCH-AND-GO DEADLIFT",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-4MIN",
+      "RPE": "7",
+      "repmax": "65-75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "1 SECOND PAUSE  RIGHT AFTER PLATES LEAVE THE FLOOR"
+    },
+    {
+      "day": 39,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 0,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON CONTRACTING  YOUR  DELTS TO MOVE THE WEIGHT,   DON'T LET FORM  GET SLOPPY TOWARD THE END OF THE SET!"
+    },
+    {
+      "day": 39,
+      "workout": "BAND PULL-APART",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MIND-MUSCLE   CONNECTION WITH  REAR  DELTS"
+    },
+    {
+      "day": 39,
+      "workout": "CABLE PULLOVER",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2MIN",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "USE BANDS  IF NO CABLES.  KEEP  CONSTANT TENSION  ON THE LATS. BIG STRETCH AT THE TOP BY LEANING SLIGHTLY FORWARD."
+    },
+    {
+      "day": 39,
+      "workout": "HAMMER CURL",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "8-10",
+      "rest": "1-2MIN",
+      "RPE": "9",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "KEEP  ELBOWS  LOCKED IN PLACE, SQUEEZE  THE DUMBBELL  HANDLE HARD!"
+    },
+    {
+      "day": 40,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "82.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 40,
+      "workout": "BARBELL BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-8",
+      "repmax": "82.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SET UP A COMFORTABLE ARCH, QUICK PAUSE  ON CHEST AND EXPLODE  UP ON EACH REP"
+    },
+    {
+      "day": 40,
+      "workout": "HELMS ROW",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-12",
+      "rest": "2-3MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "BE MINDFUL OF LOWER BACK FATGIUE, STAY LIGHT AND MINIMIZE CHEATING"
+    },
+    {
+      "day": 40,
+      "workout": "HIP ABDUCTION",
+      "warm_up_sets": 0,
+      "working_sets": 2,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MACHINE, BAND OR WEIGHTED,  SQUEEZE AND HOLD FOR 1 SECOND AT THE TOP OF EACH REP"
+    },
+    {
+      "day": 41,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-8",
+      "repmax": "90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TRY TO MOVE THE BAR AS EXPLOSIVELY  AS POSSIBLE  ON THE POSITIVE.  APPROACH WITH CONFIDENCE. TECHNIQUE LOCKED. DON'T OVERHYPE."
+    },
+    {
+      "day": 41,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "4",
+      "rest": "3-5MIN",
+      "RPE": "6-May",
+      "repmax": "75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "MAKE EVERY  REP  LOOK EXACTLY THE SAME. 1 SECOND PAUSE  ON EACH REP."
+    },
+    {
+      "day": 41,
+      "workout": "RESET DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "3",
+      "rest": "3-5MIN",
+      "RPE": "5-Apr",
+      "repmax": "65",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "STAND UP AND SET UP AGAIN IN BETWEEN  EACH REP. THINK OF EACH SET AS 3 SEPARATE SINGLES."
+    },
+    {
+      "day": 41,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "8",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "CAN USE MACHINE OR BRACE AGAINST BENCH. MINIMIZE  CHEATING."
+    },
+    {
+      "day": 42,
+      "workout": "DEADLIFT",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~7-8",
+      "repmax": "90",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TRY TO MOVE THE BAR AS EXPLOSIVELY  AS POSSIBLE  ON THE POSITIVE.  APPROACH WITH CONFIDENCE. TECHNIQUE LOCKED. DON'T OVERHYPE."
+    },
+    {
+      "day": 42,
+      "workout": "BARBELL OVERHEAD PRESS",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "8",
+      "rest": "2-3MIN",
+      "RPE": "6",
+      "repmax": "70",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THESE ARE INTENTIONALLY LIGHT FOR SHOULDER STABILITY AND BALANCE. DON'T PUSH THESE HARD. BIG BENCH DAY NEXT."
+    },
+    {
+      "day": 42,
+      "workout": "ANDERSON SQUAT",
+      "warm_up_sets": 3,
+      "working_sets": 2,
+      "reps": "5",
+      "rest": "2-4MIN",
+      "RPE": "5",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "THIS IS A PIN  SQUAT THAT STARTS AND ENDS WITH  THE BAR  ON THE PINS.  AT THE BOTTOM YOU'RE JUST ABOVE PARALLEL.  GET TIGHT."
+    },
+    {
+      "day": 42,
+      "workout": "BARBELL (OR EZ-BAR) STRICT CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "6",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "LEAN AGAINST WALL AND MAINTAIN WALL CONTACT WITH HEAD, HIPS AND BACK. KEEP ELBOWS PINNED  AT SIDES.  CONTROL THE WEIGHT."
+    },
+    {
+      "day": 43,
+      "workout": "STRICT BENCH PRESS",
+      "warm_up_sets": 4,
+      "working_sets": 1,
+      "reps": "1",
+      "rest": "3-5MIN",
+      "RPE": "~8-9",
+      "repmax": "92.50",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "TRY TO MOVE THE BAR AS EXPLOSIVELY  AS POSSIBLE  ON THE POSITIVE.  APPROACH WITH CONFIDENCE. TECHNIQUE LOCKED. DON'T OVERHYPE."
+    },
+    {
+      "day": 43,
+      "workout": "BACK SQUAT",
+      "warm_up_sets": 4,
+      "working_sets": 2,
+      "reps": "5",
+      "rest": "3-5MIN",
+      "RPE": "6-May",
+      "repmax": "75",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "SIT BACK AND DOWN,  KEEP  YOUR UPPER  BACK TIGHT TO THE BAR"
+    },
+    {
+      "day": 43,
+      "workout": "SEATED LEG CURL",
+      "warm_up_sets": 1,
+      "working_sets": 4,
+      "reps": "6-8",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "FOCUS ON SQUEEZING  YOUR HAMSTRINGS TO MOVE THE WEIGHT"
+    },
+    {
+      "day": 43,
+      "workout": "SEATED FACE PULL",
+      "warm_up_sets": 0,
+      "working_sets": 4,
+      "reps": "10-15",
+      "rest": "1-2MIN",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": "DON'T GO TOO HEAVY, FOCUS ON MIND-MUSCLE  CONNECTION"
+    },
+    {
+      "day": 44,
+      "workout": "Back Squat",
+      "warm_up_sets": 5,
+      "working_sets": 1,
+      "reps": "AMRAP",
+      "rest": "4-6Min",
+      "RPE": "9.5-10",
+      "repmax": "0.9",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 44,
+      "workout": "Leg Curl",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10",
+      "rest": "1-2Min",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 44,
+      "workout": "DUMBBELL LATERAL RAISE",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "15-20",
+      "rest": "1-2Min",
+      "RPE": "7",
+      "repmax": "N/a",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 45,
+      "workout": "Barbell Bench Press",
+      "warm_up_sets": 5,
+      "working_sets": 1,
+      "reps": "AMRAP",
+      "rest": "4-6Min",
+      "RPE": "9.5-10",
+      "repmax": "0.9",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 45,
+      "workout": "Barbell Strict Cul",
+      "warm_up_sets": 3,
+      "working_sets": 1,
+      "reps": "3",
+      "rest": "1-2Min",
+      "RPE": "10",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 45,
+      "workout": "Barbell Overhead Press",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "5",
+      "rest": "2-3Min",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 46,
+      "workout": "Deadlift",
+      "warm_up_sets": 5,
+      "working_sets": 1,
+      "reps": "AMRAP",
+      "rest": "4-6Min",
+      "RPE": "9.5-10",
+      "repmax": "0.9",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 46,
+      "workout": "CHEST-SUPPORTED ROW",
+      "warm_up_sets": 1,
+      "working_sets": 3,
+      "reps": "10-12",
+      "rest": "1-2Min",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    },
+    {
+      "day": 46,
+      "workout": "Dumbbell Skull Crusher",
+      "warm_up_sets": 1,
+      "working_sets": 2,
+      "reps": "10-15",
+      "rest": "1-2Min",
+      "RPE": "7",
+      "repmax": "N/A",
+      "status": false,
+      "set1": "",
+      
+"reps_performed1": "",
+"set2": "",
+      
+"reps_performed2": "",
+"set3": "",
+      
+"reps_performed3": "",
+"set4": "",
+      
+"reps_performed4": "",
+"comments": ""
+    }
+  ],
+  "onerm": {
+    "deadlift": 353,
+    "overheadpress": 142,
+    "benchpress": 320,
+    "squat": 217,
+    "frontsquat": 207
+  }
+}
